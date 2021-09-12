@@ -1,4 +1,4 @@
-
+*create lib for Ketchup 
 *method 1;
 FILENAME REFFILE 
 	'/home/u59248883/BUMK726 - Statistical Programming/Ketchup.xlsx';
